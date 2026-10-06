@@ -1,0 +1,18 @@
+body{
+  font-family: sans-serif;
+  background-color:#ff5522;
+  text-align: center;
+}
+
+h1{
+    color:white;
+}
+
+a{
+    display:block;
+    margin-top:15px;
+}
+
+p{
+    color:white;
+}
